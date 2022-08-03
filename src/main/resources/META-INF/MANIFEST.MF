@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+FMLCorePlugin: us.skyywastaken.goodbyeshiftglitch.asm.ShiftGlitchCorePlugin
+TweakOrder: -2147483648
